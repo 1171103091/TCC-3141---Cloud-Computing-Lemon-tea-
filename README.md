@@ -2,9 +2,11 @@
 ## BMI application 
 1.This application aims to record/save the BMI every time users calculate their latest BMI.
 
-2.The app can display charts to show the recorded BMI using chartmaker (https://github.com/MillsCS215AppInventorProj/chartmaker)
+2.This application is created by using https://appinventor.mit.edu
 
-3.New health monitoring function has been added.
+3.The app can display charts to show the recorded BMI using chartmaker (https://github.com/MillsCS215AppInventorProj/chartmaker)
+
+4.New health monitoring function has been added.
 
 ## Installation
 1.Use link http://ai2.appinventor.mit.edu/b/16f0u to download the apk file.
