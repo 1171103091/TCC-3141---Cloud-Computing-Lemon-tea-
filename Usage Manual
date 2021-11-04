@@ -1,14 +1,29 @@
-# TCC-3141---Cloud-Computing
+Usage Manual
 
-## BMI application
-<p>1. This application aims to record/save the BMI every time users calculate their latest BMI.</p>
-<p>2. This application is created by using https://appinventor.mit.edu</p>
-<p>3. The app can display charts to show the recorded BMI using chartmaker (https://github.com/MillsCS215AppInventorProj/chartmaker)</p>
-<p>4. A new health monitoring function has been added.</p>
 
-## Extension guideline
-<p>1. Download the (<a href="https://github.com/1171103091/TCC-3141---Cloud-Computing/blob/df60f6e1c1bafaa1e75046f7168a830918bdb28c/MyBMIUSR(Lemon%20Tea%20version).aia" download>MyBMIUSR(Lemon Tea version).aia</a>) .</p>
-<p>2. Go to the link https://appinventor.mit.edu/.</p>
-<p>3. Import (<a href="https://github.com/1171103091/TCC-3141---Cloud-Computing/blob/df60f6e1c1bafaa1e75046f7168a830918bdb28c/MyBMIUSR(Lemon%20Tea%20version).aia" download>MyBMIUSR(Lemon Tea version).aia</a>) to the appinventor.mit.</p>
-<p>4. Download (<a href="https://github.com/1171103091/TCC-3141---Cloud-Computing/blob/03391ddf9f6dba418d2ab17e7623bf5473094979/edu.mills.appinventor.ChartMaker.aix" download>ChartMaker.aix</a>) and import to the appinventor.mit in order to view charts.</p>
+Users first will bring to Screen one when they start the program which is the main menu of the Program. The screenshot shows screen one on the phone.
+
+
+
+After pressing the start button, it will bring to screen two and users can input the value to calculate the BMI. The output shows the blocks in MIT App Inventor and the output screen in the phone.
+
+
+
+
+Now the user can input the value, after that the system will calculate the BMI. The system will show the result and the advice after the calculation.
+
+After the calculation is done, the system will store the data in the google drive file which was created by our group members. The output will be like this:
+
+
+Now users can press the record button and it will bring us to screen 3. In this screen, the program will show the record data. The output includes time, user’s input name, weight, height and the BMI.
+
+
+Blocks in MIT App Inventor on screen 3:
+
+
+
+And lastly is the chart button. This function will show the average of the BMI value in Bar chart type and Pie chart type. All of the chart output will be output on screen 4. Users can choose which type of chart they want to output. The output will be like this:
+
+
+The chart blocks in MIT App Inventor:
 
